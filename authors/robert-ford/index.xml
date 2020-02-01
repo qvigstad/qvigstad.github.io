@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Robert Ford | Academic</title>
+    <link>/authors/robert-ford/</link>
+      <atom:link href="/authors/robert-ford/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Ford</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>https://qvigstad.github.io/</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
     </image>
     
     <item>
