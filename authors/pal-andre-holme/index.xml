@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Pål Andre Holme | Academic</title>
+    <link>/authors/pal-andre-holme/</link>
+      <atom:link href="/authors/pal-andre-holme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pål Andre Holme</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Pål Andre Holme</title>
+      <link>/authors/pal-andre-holme/</link>
     </image>
     
     <item>
