@@ -1,0 +1,84 @@
+---
+title: <a href="./index.html">Nordic Hemophilia Guidelines</a>
+output:
+  bookdown::gitbook:
+    split_bib: true
+    # self_contained: true
+    split_by: chapter+number
+    # mathjax: null
+    # pandoc_args: --mathjax=https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_HTMLorMML.js
+    config:
+      fontsettings:
+        theme: white
+        family: sans
+        size: 2
+      info: no
+      sharing: no
+      toolbar:
+        position: fixed
+      toc:
+        collapse: subsection
+        # collapse: none
+        scroll_highlight: yes
+        before: |
+          <li><a href="./index.html">Nordic Hemophilia Guidelines</a></li>
+        after: null
+bibliography: Bibliography.bib
+link-citations: true
+csl: ../Auxiliary/Haemophilia.csl
+---
+
+```{r NHC_setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+library(dplyr)
+```
+
+```{r child = 'Index.Rmd'}
+```
+
+```{r child = 'Authors.Rmd'}
+```
+
+```{r child = 'History.Rmd'}
+```
+
+```{r child = 'Organization.Rmd'}
+```
+
+```{r child = 'Lab.Rmd'}
+```
+
+```{r child = 'Treatment.Rmd'}
+```
+
+```{r child = 'Adolescence.Rmd'}
+```
+
+```{r child = 'Inhibitors.Rmd'}
+```
+
+```{r child = 'Surgery.Rmd'}
+```
+
+```{r child = 'SurgeryInhibitors.Rmd'}
+```
+
+```{r child = 'Comorbidities.Rmd'}
+```
+
+```{r child = 'Pain.Rmd'}
+```
+
+```{r child = 'Physiotherapy.Rmd'}
+```
+
+```{r child = 'Carriers.Rmd'}
+```
+
+```{r child = 'Nursing.Rmd'}
+```
+
+```{r child = 'Dental.Rmd'}
+```
+
+# References {-}

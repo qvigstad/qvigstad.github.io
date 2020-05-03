@@ -1,0 +1,184 @@
+# Surgery in hemophilia - practical guidelines
+
+#### Revision by: Pål Andre Holme (Oslo) {-} 
+
+### Recommendations {-}
+
+*	Surgical and invasive procedures can be performed safely in PWHs
+
+*	Any surgery in patients with hemophilia and especially inhibitor patients should be planned and executed in close conjunction with a hemophilia treatment center (HTC)
+
+*	PWH undergoing surgery should be daily monitored with daily factor measurements
+
+*	Factor replacement in PWH undergoing surgery can either be given as repetitive bolus infusions or continuous infusion
+
+*	Major surgery: FVIII/IX level 0.7-1.0 kIU/L immediately before a surgical procedure and replacement therapy for 7-10 days
+
+*	Tranexamic acid (25 mg/kg p.o / 10 mg/kg i.v.) should be combined with factor replacement 3-4 times daily for 7-10 days
+
+## Preoperative planning
+
+Surgical and invasive procedures can be performed safely in PWHs. Due to the increased risk of bleeding complications during surgery, thoroughly planning should be performed prior to surgery. Coordinated standard pre-, intra and postoperative assessment and planning are mandatory (intended) to optimize surgical outcome and utilization of resources, while minimizing the risk for bleeding and other adverse events during and after surgery. Because of the concentration of expertise and experience, it is recommended that any surgery in patients with hemophilia and especially inhibitor patients are planned and executed in conjunction with a hemophilia treatment center (HTC) [@Kulkarni-13-HAE].
+
+The patient’s expectations regarding surgical outcome and recovery are also important to explore upfront of an orthopedic procedure. The hematologist should provide a written detailed treatment plan including duration and dosage of hemostatic therapies, also covering the rehabilitation phase.
+
+The patient’s hemostatic functions should be screened prior to surgery. Laboratory test as: Platelet count, APTT, prothombin time, FVIII/FIX level, inhibitor test, fibrinogen, blood group including irregular antibodies and recovery test prior to surgery should be performed. It is important that an inhibitor test is performed recently before surgery and that an in vivo response assessment is performed to test the recovery of a standard dose of the factor concentrate selected for substitution during surgery. Data from these tests can be used to plan the substitution program during and after surgery.
+
+Based on the response (recovery), a substitution program should be outlined, giving exact information on the number of units of coagulation factor to be used and the timing of concentrate infusion during surgery and the entire post-operative period and whether repetitive bolus infusions or continuous infusion are preferred. 
+The substitution schedule should also provide information about the need for prophylactic treatment during the rehabilitation training program both in hospital and home.
+
+Factor FVIII/FIX should be monitored peri- immediately postoperative and at least once daily in the hospitalized period to adjust the factor levels achieved [@Ingerslev-06-SH].
+
+Due to an increased risk of inhibitor development during the first 20 exposure days surgery should be postponed if possible.
+
+Thromboprophylaxis should not be administered routinely. In patients with previous VTE, with severe risk factors, such as obesity and active cancer, thromboprophylaxis might be considered.
+
+## Substitution principles
+
+In clinical management of surgical episodes in patients suffering from hemophilia, two major substitution principles have been adopted: Bolus injections of factor concentrate every 6-12 h and continuous infusion of factor concentrate by means of a pump delivery system [@Holme-18-HAE].
+
+### Continuous infusion
+
+The continuous infusion (CI) principle has been in use in some hemophilia centers for numerous years. One of the strongest arguments favouring continuous infusion is its superiority in providing the patient with a safe and constant level of the coagulation factor in question by balancing input with clearance. At a reasonably constant factor level, the risk of early and late re-bleeding may be diminished or abrogated. Further, continuous infusion may reduce concentrate spending compared to bolus injections, since peaks of factor level are avoided. However, there are some issues concerning CI practices. The bag system most often used with the pumps has the theoretical risk of infection and/or factor concentrate degradation during storage at room temperature. These questions have been extensively studied and appear not to be a problem within 72 h of CI determined by laboratory testing of stability and sterility. Phlebitis at the infusion site was regularly reported using CI, however this problem is nowadays very seldom seen after small amounts of heparin or LMW-heparin was added to the infusion bag. A quite frequently reported complication is related to loss of battery power or other failures of the delivery pump system. Finally, suspicion has been raised that continuous infusion may be associated with development of inhibitors, especially in non-severe hemophilia, although medical evidence in standard terms are lacking.
+
+### Bolus injections
+
+Bolus injections refer to administration of pre-planned doses of factor concentrate infused at scheduled time intervals. The response to bolus injections is dependent of the dose administered. A sufficient factor level in blood is the one that does not go below a predetermined trough level of factor (immediately before the next dose) and that does not cause untoward bleeding. This means that the immediate pre-dose sample should illustrate the minimum target level of factor that ensures, in the clinical situation, adequate hemostasis. While this value is a critical determinant of bleeding risk, the post-dose factor level may vary a great deal.
+
+A clear disadvantage of using bolus injection strategy is the requirements for frequent injections at 8-12 hour intervals. Since the hemostatic efficacy of concentrate with bolus administration is dependent of the through level, a certain degree of spillage may be demanded to maintain that particular level. Another disadvantage of bolus injection methods is related to the substitution program and its costs. The peak value of factor in blood probably represents an overshoot of factor needed, and thus a relative risk of overuse of factor concentrate.
+
+## Major surgery including orthopedic surgery
+
+FVIII/IX level 0.7-1.0 kIU/L immediately before a surgical procedure and replacement therapy for 7-10 days after major surgery are to be targeted.  Prophylaxis should then be continued. Tranexamic acid (25 mg/kg p.o / 10 mg/kg i.v.) should be combined with factor replacement 3-4 times daily for 7-10 days.
+
+For the bolus infusion: A bolus dose of approximately 50 IU/kg (FVIII) and 60-70 IU/kg (FIX) should be administered just before anesthesia. The dose for giving a steady state level is calculated for the next 24 h according to the formula (clearance (CL) x BW x 24) where default values of 3 and 4 can be used as CL for FVIII and IX respectively. Two hours after the bolus dose (see above) it is recommended to give another 2.000 IU to an adult patient and the total dose for the next 24 h according to the formula is then given in 6 hour intervals for FVIII and 8 hour intervals for FIX.
+
+### Continuous infusion
+
+Recovery calculation to determine the initial bolus dose:
+
+
+$$Recovery = \frac{Increase \ in \ factor \ level \ (\%) \ x  \ BW}{Test \ dose \ IU}$$
+
+$$Bolus \ dose = \frac{Desired \ increase \ in \ factor \ level \ (\%) \ x \ BW}{Recovery}$$
+
+$${Infusion \ rate =	Clearance \ x \ desired \ factor \ level \ (IU/kg)}$$
+
+$${Daily \ dose =	Infusion \ rate \ x \ BW \ x \ 24 \ h}$$
+
+$$Clearance = \frac{Infusion \ concentration \ kIU/L \ x \ infusion \ rate \ mL/24 \ h}{Measured \ factor \ level \ kIU/L}$$
+\newpage
+
+Clearance (mL/h/kg) often measured. Varies between individuals and products, especially for FIX:
+
+* Hemophilia A: Adult: 3, Children: 5
+* Hemophilia B: Adult: 6
+
+Desired FVIII/IX levels in the patients for continuous infusion and trough levels for the bolus injection group:
+
+* Day 1-3: 0.70 kIU/L
+* Day 4-6: 0.50 kIU/L 
+* Day 7-9: 0.30 kIU/L
+
+Then tapering off - bolus infusions before physiotherapy [@@Holme-18-HAE].
+
+## Minor surgery
+
+In general, a factor level of 0.5 kIU/L is recommended before the surgical procedure and replacement therapy for 1-5 days depending on the procedure.
+
+## Specific surgery
+
+### Dental extraction
+
+For invasive surgical intervention it is recommended to increase the factor level >0.5 kIU/L pre-operatively and use an oral antifibrinolytic agent (tranexamic acid) agent pre-and post operatively in combination with local therapy [@Srivastava-13-HAE].
+
+### Circumcision
+
+A general recommendation for circumcision is a factor level of 0.7-1.0 kIU/L at the start of surgery and a level >0.5 kIU/L maintained for at least 2-3 days (some recommend 7-10 d) together with antifibrinolytics.  When performing circumcision in patients with mild hemophilia A desmopressing (DDAVP) 0.3 $\mu$g/kg intravenously before the initiation of surgery and an additional dose on the second day can be considered in DDAVP responding patients [@Ljung-12-BJH].
+
+### Liver biopsy
+
+In patients undergoing liver biopsy, the preoperative factor level should be as for major surgery 0.7-1.0 kIU/L and replacement therapy should be continued for at least 3 days with concomitant use of tranexamic acid as described below [@Hermans-09-HAE]. Bed rest for 8-12 h after the biopsy is recommended.
+
+### Tonsillectomy/Adenotomy
+
+In children undergoing tonsillectomy preoperative factor level should be 0.7-1.0 kIU/L and replacement therapy should be continued for 7-10 days days with concomitant use of tranexamic acid as described below [@Ljung-12-BJH; @Hermans-09-HAE].
+
+### Prostatectomy
+
+Prostatectomy should be considered as major surgery. However, substitution therapy should be continued for at least 2 weeks due to the increased risk of late bleeding complications [@Hermans-09-HAE].
+
+### Mild hemophilia
+
+Surgery in persons with mild hemophilia A can be performed using desmopressin (DDAVP) when FVIII can be raised to an appropriate therapeutic level. Administration of desmopressin (DDAVP) can raise FVIII level adequately (three to six times baseline levels) in patients with mild, and possibly moderate, hemophilia A. Testing for DDAVP response prior to surgery should be performed after one and four hours.
+
+Desmopressin does not affect FIX levels and is of no value in hemophilia B.
+
+*	0.3 $\mu$g/kg i.v. or s.c.
+*	300 $\mu$g i.n. (spray) (150 $\mu$g if BW <30 kg)
+
+Intravenously (i.v.): slow injection of DDAVP (diluted in 10 mL saline) during 15 minutes or infusion (diluted in 50-100 mL saline) during 30 minutes diluted in 50-100 mL saline. Peak FVIII/VWF levels are observed at 60 minutes.
+
+Subcutaneously (s.c.): Peak FVIII/VWF levels are reached after about 120 minutes.
+
+Octostim® solution (15 $\mu$g/mL) is the most suitable for s.c. administration, due to its high concentration. Often a single 15 $\mu$g dose s.c. will suffice in adults.
+
+An additional dose of DDAVP is infused on the second day (12/24h). DDAVP may cause fluid retension, which deserves special attention in the youngest children (<4 years) in whom FVIII concentrate should be considered. A fluid restriction of 1-1.5 L is recommended.
+ 
+### Tranexamic acid
+
+Tranexamic acid is an antifibrinolytic agent. Administration can be oral, intravenous or topical (e.g. as mouthwash). It can be used in combination with DDAVP, FVIII/FIX and rFVIIa. To increase its effectiveness, tranexamic acid should be given prior to elective procedures and with repetitive dosing to ensure concentrations in tissues as well.
+
+*	Orally 25 mg/kg 3-4 times daily for 7-10 days
+
+*	Intravenously 10 mg/kg 3-4 times daily for 7-10 days
+
+*	Mouthwash 10 mL of a 5% solution 4 times daily, which can be swallowed
+
+### Limitations
+
+*	Contraindicated in the management of upper urinary tract bleeds
+
+*	Dose reduction is necessary in patients with renal insufficiency
+
+*	Should be avoided, or its usage minimized, in patients with a recent thromboembolism and/or a previous personal or family history of thromboembolic disease
+
+*	No data are available on the use of tranexamic acid in newborns
+
+### Adverse effects
+
+Nausea, vomiting, diarrhea and abdominal pain.
+
+## Postoperative management
+
+Adequate pain control is an important factor in successful postoperative management and rehabilitation. However, in general, neuraxial anesthetic and analgestic techniques (epidural anesthesia) are contraindicated postoperatively due to the risk of bleeds. However, nerve blocks may be used in this patient group (with caution and under replacement coverage). Acetylsalicylic acid and Cyclooxygenase-1 inhibitors should also be avoided since they induce platelet dysfunction and thereby contribute to impaired hemostasis. COX-2 inhibitors are suitable with proton pump inhibitors, unless there is renal insufficiency.
+
+A physical therapy plan to assess pre- and postsurgical rehabilitation is advisable to patients undergoing elective orthopedic surgery and the physical therapist should be experienced in the management of hemophilia and in frequent communication with the other members of the hemophilia treatment team.
+
+## Orthopedic aspects
+
+Orthopedic surgery in PWHs is truly a collective effort, involving not only the surgeon but also collaboration with the comprehensive hemophilia center team to address serious considerations. The optimal timing of orthopedic surgery during the lifetime of the hemophilic patient is unknown. However, the more demanding social and professional life of youth also favour the early correction of joint disease. These factors have contributed to the tendency towards early orthopedic intervention, and the focus of such procedures has shifted from relief of pain towards the correction of functional disability.
+
+\newpage
+
+Table: (\#tab:SURGERY) Recommended plasma factor levels before and after surgery
+
+| | Hemophilia A and B | |
+|-|-|-|
+| | Desired level kIU/L |	Duration (days) |
+| **Major surgery** | | |		
+| Pre-op | 0.7-1.0 | |	
+| Post-op | 0.6-0.8 | 1-3 |
+| | 0.4-0.6 |	4-6 |
+| |	0.3-0.4	| 7-9 |
+| **Minor surgery**	| | |
+| Pre-op | >0.5	| |
+| Post op | | 1-5 depending on procedure |
+
+## EHL products and surgery
+
+Prophylaxis during and after surgical procedures using an extended half-life product (EHL) should follow the same principles as when using a standard half-life product both for Hem B and A. However, the data so far are very limited so thorough monitoring should be performed.
+
+## Non-factor replacement therapy and surgery in non-inhibitor patients
+
+Minor and major surgeries with ongoing emicizumab treatment with or without substitution of SHL- FVIII products have been successfully reported. However, the data so far are very limited [@Mahlangu-18-NEJM].

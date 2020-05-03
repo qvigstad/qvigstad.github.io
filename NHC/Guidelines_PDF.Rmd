@@ -1,0 +1,145 @@
+---
+output:
+  bookdown::pdf_document2:
+    includes:
+      before_body: Titlepage.tex
+    fig_caption: yes
+    number_sections: no
+    toc: no
+    keep_tex: no
+    latex_engine: xelatex
+# citation_package: biblatex
+# biblatexoptions: [refsegment=chapter]
+bibliography: Bibliography.bib
+csl: ../Auxiliary/Haemophilia.csl
+link-citations: true
+urlcolor: black
+linkcolor: black
+fontsize: 12pt
+geometry: margin = 1.2in
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{H}
+- \usepackage{fancyhdr}
+- \usepackage{setspace}
+- \onehalfspacing
+# - \usepackage[backend=biber, refsegment=chapter, defernumbers=true]{biblatex}
+# - \addbibresource{Bibliography.bib}
+---
+
+```{r NHC_setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, fig.pos = "H")
+```
+
+\pagenumbering{arabic}
+
+\newpage
+\pagestyle{fancy}
+
+\fancyhead[L,R]{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\headheight}{14.5pt}
+
+\newpage
+\renewcommand\contentsname{Table of contents}
+\fancyhead[C]{Table of contents}
+\setcounter{tocdepth}{3}
+\tableofcontents
+
+\newpage
+\fancyhead[C]{Authors}
+
+```{r child = 'Authors.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{History of hemophilia in the Nordic countries}
+
+```{r child = 'History.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Organisation of hemophilia care}
+
+```{r child = 'Organization.Rmd'}
+```
+
+<!-- \printbibliography[segment=\therefsegment,heading=subbibliography] -->
+
+\newpage
+\fancyhead[C]{Laboratory diagnosis}
+
+```{r child = 'Lab.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Prophylaxis and on demand treatment}
+
+```{r child = 'Treatment.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Adolescence}
+
+```{r child = 'Adolescence.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Inhibitors}
+
+```{r child = 'Inhibitors.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Surgery in hemophilia - practical guidelines}
+
+```{r child = 'Surgery.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Surgery in PWHs with inhibitors}
+
+```{r child = 'SurgeryInhibitors.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Comorbidities in the ageing patients with hemophilia}
+
+```{r child = 'Comorbidities.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Treatment of pain}
+
+```{r child = 'Pain.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Physiotherapy}
+
+```{r child = 'Physiotherapy.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Carriers of haemophilia}
+
+```{r child = 'Carriers.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Hemophilia nurse functions}
+
+```{r child = 'Nursing.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{Dental care}
+
+```{r child = 'Dental.Rmd'}
+```
+
+\newpage
+\fancyhead[C]{References}
+
+# References

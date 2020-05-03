@@ -1,0 +1,30 @@
+# Authors {-}
+
+Jovan Antovic, Stockholm\
+Jan Astermak, Malmö\
+Malin Axelsson, Malmö\
+Fariba Baghaei, Gothenburg\
+Marianne Berg, Oslo\
+Elisabeth Brodin, Göteborg\
+Ruth Elise Dybvik, Oslo\
+Eva Funding, Copenhagen\
+Nadine Gretenkort, Malmö\
+Heidi Glosli, Oslo\
+Marianne Hoffman, Copenhagen\
+Karin Juel Hansen, Copenhagen\
+Margareta Holmström, Stockholm\
+Carola Henriksson, Oslo\
+Pål Andre Holme, Oslo\
+Lone Hvitfeldt, Aarhus\
+Lise Karlmark, Copenhagen\
+Elina Lehtinen, Helsinki\
+Riitta Lassila, Helsinki\
+Rolf Ljung, Malmö\
+Anna Olsson, Gothenburg\
+Pia Petrini, Stockholm\
+Susanna Ranta, Stockholm\
+Karin Strandberg, Malmö\
+Timea Szanto, Helsinki\
+Kaisa Vepsäläinen, Kuopio\
+Linda Myrin Westesson, Gothenburg\
+Eva Zetterberg, Malmö\

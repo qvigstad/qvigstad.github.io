@@ -1,0 +1,43 @@
+# Dental care
+
+#### Revsion by: Lone Hvitfeldt (Aarhus) and Fariba Baghaei (Gothenburg) {-}
+
+\hfill\break
+
+Regular check up at the dentist is important to prevent damage to the teeth and the mucosa of the mouth and thereby prevent bleeding from the gums and other oral diseases and the need for operations [@Zanon-00-HAE; @Franchini-05-HAE; @Kalsi-12-HAE; @Lee-05-BDJ]. The staff at the hemophilia center can provide information to the patient and his dentist about which kind of treatment could be given and which kind of treatment should be given at the department for oral and maxillofacial surgery affiliated with the hemophilia center.
+
+Most patients, both adults and children can have regular check up at their own dentist for caries and cleaning of the teeth. Treatment of caries, root canal treatment, tooth prosthesis and orthodontic tooth regulation could also be done at the local dentist in most cases. All treatments which do not cause bleeding can be performed at the patient’s own local dentist. Especially inhibitor patients should be treated in close collaboration between the dental clinic and the hemophilia center since they have a special hemostatic treatment and increased risk of bleeding.
+
+Patients with inflammation in the gums often have problem with bleeding and should be offered treatment by dental hygienist.
+
+Surgical operations should always be performed at an oral and maxillofacial surgical department connected with the hemophilia center as this kind of procedure requires experience in treatment of PWHs and collaboration regarding the need of medication.
+
+Tooth extractions, implantations and jaw surgery should be performed at the department for oral maxillofacial surgery and in some cases prophylaxis with antibiotics is needed.
+
+## Hemostatic treatment
+
+Prophylactic treatment with factor concentrate may be necessary for some patients depending on the severity of hemophilia and the character of the procedure at the dentist. The treatment at the dentist/ surgeon could be planned on one of the days when the patient receives prophylactic treatment with factor concentrate. The procedure at the dentist should be done as soon as possible after the infusion of factor concentrate within one to two hours. Tooth extraction can often be managed by a single dose of factor concentrate combined with tranexamic acid tablets and mouth wash for 7 days. Compression of the wound with swaps containing tranexamic acid and topical hemostatics like fibrin glue can be useful. After tooth extraction cold liquid food is recommended for one to two days.
+
+In more advanced jaw or oral surgery repeated doses of factor concentrate might be necessary for hemostasis.
+Desmopressin (Octostim®) can be used in patients with mild hemophilia A who have an adequate rise in factor VIII. Desmopressin should be administered one hour before dental procedure regardless of route of administration. The dosage for subcutaneous administration is 0.3 µg/kg bodyweight.
+
+Besides the treatment with factor concentrate tranexamic acid is very useful in dental surgery as oral suspension of tranexamic acid 5% and/or as tablets and sometimes in combination with desmopressin. Mouthwash with 10 mL 5% oral suspension of tranexamic acid 4 times a day is an efficient adjuvant treatment after dental surgery or minor dental procedures for adults After mouthwash the patient should avoid eating or drinking for 30 minutes. Suspension of tranexamic acid for mouthwash is in some places produced by the hospital pharmacy. Suspension of tranexamic acid could be made by mixing one tablet containing 500 mg tranexamic acid and 10 mL lukewarm water or one soluble tablet containing one gram tranexamic acid in 20 mL lukewarm water. Tablets can also be chewed and the mouth can then be rinsed with a small amount of water keepting that for a couple of minutes in the mouth and then spit the liquid out.
+
+Treatment with tranexamic acid tablets is started before dental treatment in the dosage up to 15-25 mg/kg 3-4 times a day already 1-3 days prior to surgery, as repeated dosing will raise the tissue concentration of tranexamic acid. Treatment with tranexamic acid should continue until wound healing or in the case of tooth extraction most often for seven days. Wounds can be treated with local hemostatic agents as fibrin glue and suturing.
+
+Eruption or exfoliation of teeth in children can be treated with tranexamic acid. Extraction of an exfoliating tooth might be necessary if there is continuous bleeding.
+Depending on the severity of hemophilia the following medication can be used alone or in combination:
+
+*	Tranexamic acid tablets 15-25 mg/kg 3-4 times daily
+
+*	Tranexamic acid mouthwash 10 mL 5% suspension 4 times daily
+
+*	Desmopressin in mild hemophilia A or
+
+*	Factor concentrate
+
+*	Local hemostatic agents
+
+## Anesthesia
+
+Anesthetic injections in the bottom of the mouth and mandibular injection (intramuscular) should be avoided unless prophylactic treatment to increase the level of the missing coagulation factor is given. Intra-ligamental injection or infiltration-anesthesia can be used without treatment with factor concentrate. Local anesthetics with or without adrenaline can be used.

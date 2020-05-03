@@ -1,0 +1,72 @@
+# Treatment of pain
+
+#### Revision by: Lone Hvitfeldt (Aarhus) and Fariba Baghaei (Gothenburg) {-}
+
+\hfill\break
+
+Among PWHs pain is a very common condition affecting quality of life [@Witkop-12-HAE]. Basic pain treatment can be symptomatic and in some cases also directed against the underlying disorder. When evaluating pain it is important to take the patient’s life situation into account. The pain could be acute and/or severe or chronic. Pain from joints or muscles is very common in PWHs especially if the patient has hemophilia arthropathy, in which case the pain often is chronic. Bleeding in a joint or muscle will produce an acute pain and should be treated with relevant hemostatic drug as soon as possible in order to stop the bleeding. The evidence is scarce for the use of ice to reduce bleeding and inflammation due to joint or muscle bleeding in hemophilia.
+
+If the PWH is not on a prophylactic treatment regime with factor concentrate and has a target joint, prophylaxis should be offered to avoid recurrent bleeding, inflammation and pain.
+
+Several instruments exists for the evaluation of pain in PWHs among which are the visual analogue scale (VAS), health related quality of life (HRQoL), McGill Pain Questionnaire (arthritis) and others [@Riley-11-HAE; @Humphries-13-HAE].
+
+In many situations chronic pain should be managed in a multidisciplinary team where the patient is rehabilitated with the help from pain management clinic, physiotherapists, psychologist, orthopedists, social workers, experts in management of pain in addition to the hemophilia doctors and nurses.
+
+## Analgetics
+
+Mild analgetics are often used in the treatment of both acute and chronic pain. Paracetamol (acetaminophen) is the basic treatment and can if necessary be combined with tramadol or codeine.
+
+The analgetic effect of codeine is caused by codeines conversion to morphine. In approximately 10% of the white population codeine is without analgetic effect, caused by inability to convert codeine to morphine. Tramadol is a synthetic codeine analogue. Common side effect to treatment with codeine, tramadol and morphine is nausea, constipation, vomiting and drowsiness. Codeine should be used with caution, especially in elderly patients because of the risk of cognitive side effects.
+
+Information about dosage of analgetics to the patients is very important for the prevention of toxicity e.g. liver toxicity in the use of paracetamol in patients with chronic hepatitis or HIV.
+
+Aspirin has an irreversible inhibition on platelet aggregation and should not be used in treatment of pain for PWHs. If the pain is caused by inflammation in a joint COX-2-inhibitors (celecoxib or etoricoxib) can be considered in selected PWHs. COX-2 inhibitors do not inhibit platelet aggregation. However even COX-2 inhibitors can have serious side effects like COX-1 inhibitors and should be used with caution in specific patients. One of the most serious side effects is gastroduodenal ulcers. The risk of gastrointestinal ulcers is lower with COX-2 inhibitors than COX-1 inhibitors and H2 receptor antagonists or protoni pump inhibitors can be used to minimize the risk of ulcers. Both COX-1 and COX-2 inhibitors can have severe gastrointestinal, renal and cardiovascular (MI, stroke and other arterial thrombosis) side effect.
+
+Among the NSAIDs COX-1 inhibitors e.g. ibuprofen has a reversible inhibition on platelet aggregation. COX-1 inhibitors should generally only be used on strong indication and with caution in the treatment of pain in PWHs due to the increased risk of bleeding and other serious side effects. If there is a strong indication for the use of COX-1 inhibitors in people with hemophilia it is recommended to choose a drug with a short half-life. Ibuprofen has a short half-life and the risk of side-effects (gastrointestinal ulcers and cardiovascular events) is considered low when the daily total dosage is 1,200 mg and below.
+
+Some patients may benefit from using analgetics with prolonged effect especially for treatment of pain at night. Also transdermal formulas can benefit many patients with chronic pain issues.
+
+In the case of severe acute pain morphine could be necessary to use at start, but due to the risk of addiction it should be given for a limited period of time.
+
+Patients with severe complex chronic pain should be managed at a pain clinic. In the treatment of chronic pain gapapentin (medication for epilepsy) or tricyclic antidepressants can have an additive effect on the treatment with analgetics.
+It is important to be aware of that children often express pain in a different way than adults. Before injections it is common to apply anesthetic cream to the skin of the child in order to minimize pain.
+
+Pain in PWHs could be managed as described below [@Holstein-12-HAE; @Polston-13-BOOK]:
+
+**Mild pain and/or chronic pain**
+
+*	Paracetamol alone or combined with
+
+*	Codeine or
+
+*	Tramadol
+
+**Pain and joint inflammation (NSAIDs)**
+
+*	COX-2 inhibitors  - celecoxib or etoricoxib
+
+*	COX-1 inhibitors – ibuprofen only in special circumstances
+
+**Acute severe pain**
+
+*	Morphine
+
+## Orthopedic surgery and treatment by the orthopedist
+
+Treatment by the orthopedic surgeon should always be considered, if the pain is a symptom caused by joint damage. Synovectomy with the removal of the synovial membrane can often be used, if the patient has inflammation without severe cartilage or bone destruction in the joint. If the joint is severely damaged a joint prosthesis is often the best solution to the pain problem. In some cases the physiotherapist or orthopedist can help the patient with orthosis or heightening of shoe heels.
+
+### Intraarticular corticosteroid injection in joints with hemophilia arthropathy
+
+Intraarticular injection of corticosteroid for the treatment of inflammation and pain in joints with arthritis e.g. rheumatoid arthritis is a documented and established treatment modality [@Cheng-12-PM].
+
+If the PWH has a joint with inflammation, corticosteroid injection into the joint can be used. It has been demonstrated in a few studies that intra-articular injection of corticosteroids can reduce pain in hemophilia joints with inflammation [@Shupak-88-AJH; @Fernandez-97-CORR].
+
+A prophylactic dose of factor concentrate should be given prior to the injection of corticosteroid. The intra-articular injection must be given under sterile condition and if possible, effusions can be drawn from the joint. In case of suspicion of infection the synovial fluid must be sent to further investigation to rule out infection and injection of corticosteroid should not be given. The most serious but also very rare complication to intra-articular corticosteroid is infection.
+
+The dose of corticosteroid depends on size of the joint and the degree of inflammation. The dose of corticosteroid could be e.g. triamcinolonehexacetonide  (Lederspan®) 10-40 mg or triamcinolonacetonid (Kenalog®) 20-80 mg.
+
+As it is essential to the effect of the treatment, that the corticosteroid is given into the joint, it is recommended that the injection is given by a physician, trained in giving injections into the joints. If possible the injection could be given guided by ultrasonography to increase the precision of injection.
+
+After the injection the patient must avoid loading of the joint for at least 24 h. When corticosteroid is used in arthritis the effect of the injection stays at least four to six weeks but usually for several months or even longer. Osteoporosis around the joint needs to be managed appropriately.
+
+Mild side effect is experienced in up to 10% of cases as flushing of the face, increased sweating in minutes to hours after the injection. In patients with arthritis approximately 2% can experience worsening of the pain lasting the first 24 h after the injection. Although systemic effects of the corticosteroid injection is minimal, measurements of blood glucose should be done in patients with diabetes mellitus, as the blood glucose in some cases can be elevated in the first days after the injection.

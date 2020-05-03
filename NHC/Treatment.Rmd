@@ -1,0 +1,99 @@
+# Prophylaxis and on demand treatment
+
+#### Revised by Eva Funding (Copenhagen), Margareta Holmström (Stockholm), Susanna Ranta (Stockholm), Pia Petrini (Stockholm), Nadine Gretenkort (Malmö) , Kaisa Vepsäläinen (Kuopio), Heidi Glosli (Oslo) and Marianne Hoffman (Copenhagen) {-}
+
+### Recommendations {-}
+
+*	Recombinant rather than plasma derived products should be used when available. In families with high risk of inhibitors, the choice should be discussed (see Inhibitor chapter)
+
+*	Primary prophylaxis in severe hemophilia should start around the age of one before joint bleeds occur.
+
+*	Patients with moderate hemophilia with a factor level of 1-2% should also be offered primary prophylaxis.
+
+*	The goal is prevention of joint disease and intracranial bleeds.
+
+*	Prophylaxis is initiated with a dose of standard FVIII around 25 IU/kg once or twice a week, or standard FIX around 50 IU/kg once a week.
+
+*	In hemophilia B, the first five injections should be done in a hospital setting, due to the risk of anaphylactic reactions.
+
+*	As soon as venous access allows, the frequency is increased.  A central venous access device may be considered.
+
+*	The aim is full scale prophylaxis with 20-40 IU/kg standard FVIII every second day, or at least three times weekly, for patients with hemophilia A, and 30-40 IU/ kg standard FIX every third day, or twice weekly, for patients with hemophilia B.
+
+*	The dose is tailored according to clinical response. Dose per kg body weight can often be lowered with age. At routine checkup, the previous factor infusion should be registered in detail (time point, dose), and a blood sample taken, for pharmacokinetic calculation (PK).
+
+*	FVIII EHL can be considered to improve troughs. In less active patients, FVIII EHL can be considered to reduce frequency of injections.
+
+*	FIX EHL should be considered, especially when there are break through bleeds on prophylaxis with standard FIX, or adherence issues.
+
+*	When switching to EHL products, PK measurement is recommended. PK sampling should be prolonged to 72 h for EHL FVIII, and 162 h for EHL FIX, with a minimum sampling schedule after 0.5-1h and before next dose (trough). Frequency of injections should be planned individually, according to patient activities and need for peak levels, and doses adjusted according to trough and bleeding pattern. Trough levels should be reassessed at steady state, after 5 doses.
+
+*	Young children with severe or moderate hemophilia are monitored every 6 months. Older children and adults are monitored every 12 months.
+
+*	Assessment of individual clinical response should include bleeding rate, recorded by the patient/parents, and joint score by a physiotherapist (se chapter on physiotherapy). Ultra sound (US) is recommended as a supplement in joint assessment. Quality of life (QOL) should be monitored.
+
+*	Acute bleeds during prophylaxis are initially treated with a single or a double prophylactic dose, depending on severity of the bleeding.
+
+*	Potentially life-threatening bleeds, such as head trauma, are initially treated with a double dose, to reach a factor level of minimum 70-80%.
+
+*	Patients with mild hemophilia are monitored every three years.
+
+*	In patients with moderate or mild hemophilia, treatment of acute bleeds on demand is tailored to reach a factor level of 40-60% in minor bleeds, and 70-80% in severe or life-threatening bleeds.
+
+*	In mild hemophilia A, DDAVP should be tested as alternative to factor replacement therapy (see surgery chapter).
+
+## Background
+
+Treatment only when acute bleeds occur is called treatment on demand. Even if the bleeding stops, pain subsides, and mobility improves, blood remains in the joint, with harmful long-term effects on the articular cartilage. Unnoticed minimal bleeding could occur during on-demand treatment as well as during prophylaxis, causing joint damage when patients have not registered any symptomatic bleeding.
+
+Replacement therapy in hemophilia has been called prophylactic treatment. The goal of prophylactic treatment is to prevent bleedings, primarily joint bleeds, with subsequent development of arthropathy. Importantly, prophylactic treatment will also offer protection from other serious bleeds such as intracranial bleeds, muscle bleeds and intra-abdominal bleeds.
+
+Prophylaxis may be primary or secondary. Primary prophylaxis aims to start prior to initiation of joint disease. Meanwhile, we do not know how many joint bleeds it takes before cartilage destruction starts, the bleeding phenotype differ between patients, and subclinical bleeds may occur. It is therefore not surprising that the definition of prophylaxis differs among countries. However, international bodies have tried to define prophylaxis and the SSC of the ISTH published their definition [@Blanchette-14-JTH], Table 3. Cohort studies, especially from Sweden and the Netherlands, clearly show the long-term benefit of prophylaxis [@Fischer-13-BLOOD; @Steen-03-HAE]. In comparison with on demand treatment, the outcome of the Swedish prophylactic strategy was superior but at a much higher cost [@Steen-03-HAE].
+
+In a Swedish health technology assessment [@Berntorp-12-HAE] it was concluded that concentrate treatment is efficacious, and prophylaxis is superior to on demand treatment on demand in terms of number of bleeds. Prophylaxis from early age protect against development of hemophilic arthropathy. These conclusions are strongly supported by a randomized clinical trial in children, comparing prophylaxis and treatment on demand [@Manco-07-NEJM]. It showed a much better outcome on prophylaxis after only 5 years follow up.
+
+Several studies classify prophylaxis into ‘high-dose’ and ‘intermediate-dose’ categories. “High-dose” prophylaxis as in Sweden is designed to enable individuals with hemophilia to live as normal as possible. The factor concentration is maintained over 1% to avoid breakthrough bleeds. This usually requires the administration of standard factor products 10-15 IU/kg/daily or 20-40 IU/kg FVIII every second day or at least three times weekly for patients with hemophilia A, and 30-40 IU/ kg FIX every third day or twice weekly for patients with hemophilia B. The minimal through to obliterate joint bleeds and hemophilic arthropathy is not known and may vary from patient to patient.
+
+Factor concentrates modified to extend the half-life (EHL) are now marketed in the Nordic countries, with varying availability and pricing. For FVIII, modifications of the manufacturing process using single chain FVIII, using a human cell line instead of a hamster cell line, or optimizing post-translational glycosylation and sulfation, has resulted in half-life’s of on average 14.2 to 14.4 hours. Pegylation, or fusion of recombinant FVIII with FC, prolongs the average half-life to 18.4 to 19 hours. In clinical trials [@Berntorp-16-STH], this has in selected cases allowed for prolonging the interval between infusions up to 3 to 7 days. However, reducing injection frequency means fewer peak concentrations, a challenge for physically very active patients. Infants and young children have short half-life’s even with EHL FVIII products, not allowing for injection every third day. Maintaining the frequency, and aiming for higher troughs, is an alternative use of EHL FVIII in patients with break through bleeds on prophylaxis with a standard FVIII product. Depending on the price per unit, switching to FVIII EHL can be cost beneficial, aiming for the same frequency and trough. Independent of the reason for switching, individual PK analysis and close follow up will be important for patients switching from standard to EHL FVIII concentrates.
+
+Extension of FIX half-life has been more successful. Pegylation or fusion with FC or albumin, has resulted half-life’s of 85 to 105 hours, with dosing every 7-14 days in clinical trials [@Berntorp-16-STH]. EHL FIX have a clear advantage compared to standard FIX products, and EHL FIX will allow for once weekly dosing in most patients. 
+Alternatives to replacement therapy are emerging. Emicizumab is the first non-factor product for hemophilia A to reach the market, and EMA recently granted a marketing authorization for prophylaxis in patients with hemophilia A without inhibitors. Emicizumab is monoclonal antibody binding FIX and FX and thereby playing the role of FVIII in the coagulation cascade. It is administered subcutaneously once weekly to every second or fourth week. Steady state is reached after the first month of loading dose. Emicizumab cannot stand alone as monotherapy, as patients eventually will need supplemental on demand treatment with FVIII in case of break through bleeds, trauma or surgery. The effect of emicizumab is not readily measured with standard coagulation assays.
+
+## Assessment
+
+### Bleeding frequency
+
+The patients should be instructed to document bleedings and home treatment in a prospective diary, either on paper or electronically. To motivate patients, the reports should be actively used during consultations with the haemophilia centre and taken into consideration when planning dosing schedules.
+
+### Quality of life
+
+To evaluate quality life standardized quality of life formulas can be used where the simplest is EQ-5D but also SF-36 is used in many centres. The EQ-ED assess pain and mobility. Hemo-QoL is a validated, disease specific QoL instrument useful in children which exist in different versions depending on the need. As generic instruments, SF-36 may be used.
+
+### Physical score
+
+Physical score is performed mainly by physiotherapists and the recommended score is HJHS (hemophilia joint health score) which takes into consideration function, pain and signs of arthropathy. HJHS was developed to study early joint disease in hemophilia and has been validated in children up to the age of 18 years [@Feldman-11-ACR]. The HJHS asses structural changes. HJHS has been widely implemented as an assessment tool in clinical studies, also in adults. Other scores as the Gilbert score are not sensitive enough in patient with no or just minimal joint damage but are still used in some clinical trials.
+
+### Imaging technique scores
+
+Different imaging techniques exist, and MRI is the most sensitive method to detect early signs of joint damage. MRI is also used in clinical studies. Due to the high cost MRI cannot be recommended for routine assessment of joint damage. The method of choice when physical signs of joint damage occur is X-ray of the joint, and in selected cases subsequently MRI. Validated scoring systems exist for plain X-ray (Pettersson score), MRI (IPSG score and several others) and are being developed for US [@Pettersson-80-CORR; @Chan-13-HAE; @Lundin-12-HAE].
+
+Evaluation with a new ultrasound-based scoring system, Hemophilia Early Arthropathy Detection with UltraSound (HEAD-US) performed by non-imaging specialists, such as physiotherapist, hemophilia nurse or doctor, has recently emerged as a complement to the clinical score and seems to correlate well with HJHS. HEAD-US may be more sensitive in detecting early signs of hemophilia arthropathy than HJHS but longer follow-up studies are required to show the relevance of findings by HEAD-US and the need for intervention.
+
+## Pediatric issues
+
+The aim of early prophylactic treatment is to enable the child to live a life as normal as possible without hemorrhages and overprotection. The trend in Europe and other well-off countries (Canada, Australia) has been towards primary prophylaxis. The rationale behind an early start is that even a small number of joint bleeds can result in irreversible damage, as well as that damage may progress despite prophylactic therapy. It has also been shown that the time point at which prophylaxis is begun is an independent factor for good joint outcome. However, it must not be forgotten that the aim of prophylactic treatment is to avoid not only arthropathy but also other serious bleedings such as intracranial hemorrhage.
+
+### Choice of factor product
+
+Recombinant rather than plasma derived FVIII/IX products should be used when available due to the possibility of the transmission of infectious agents. The first randomized study comparing recombinant and plasma derived FVIII products showed higher rate of inhibitors using recombinant FVIII concentrate [@Peyvandi-16-NEJM]; however, Pharmacovigilance Risk Assessment Committee of the European Medicines Agency judges that the evidence is not sufficient to show difference between the different classes of FVIII concentrates. As the question is currently unsolved, it is suggested that the choice of factor concentrate and inhibitor risk is discussed with high-risk families, i.e. those with history of inhibitors in the family.
+
+### Starting prophylaxis
+
+In many centers, an early therapeutic approach is initiated by giving a dose of standard FVIII around 25 IU/kg once or twice a week, or standard FIX around 50 IU/kg once a week via a peripheral vein, with the aim of increasing the frequency of administration as soon as possible. It is common to apply anesthetic cream to the skin of the child to minimize pain. Achieving venous access via a peripheral vein will be successful in most cases. However, with difficulties with venous access it may be necessary to consider a central venous access device (CVAD) – usually a subcutaneous fully implanted central venous catheter (port). In fact, current practice differs and in Finland and Denmark most patients get ports. A port ensures reliable venous access, enables early home treatment carried out by parents and helps to prevent major bleeds especially when distance to the hemophilia center is long. The decision to use a central venous port is often a compromise between the medical goal, the bleeding tendency and familiarity with the devices at the hemophilia centre. The most frequent complications with CVADs are infections, mechanical problems and catheter related thromboses (usually clinically silent). Most ports can be used for several years without complications [@Vepsalainen-15-HAE; @Khair-17-HAE]. Even if intensive early treatment due to major bleed raises the risk of inhibitors [@Maclean-11-HAE; @Vepsalainen-16-HAE; @Gouw-07-BLOOD), there is no support for the role of port implantation as a risk factor for inhibitor development [@Maclean-11-HAE; @Gouw-13-BLOOD].
+
+Especially at the first exposure but also during the subsequent 20 exposures, intensive treatment and treatment during inflammatory states should be avoided if possible. In contrast, vaccinations do not increase inhibitor risk, se chapter on inhibitor.
+
+The goal is to reach full-scale primary prophylaxis, which usually involves the following: in hemophilia A, standard factor VIII is administered at a dose of 20-40 IU/kg/day every second day or three times weekly; in hemophilia B, standard factor IX is given at a dose of 30-40 IU/kg/day every third day or twice weekly. A large multicenter study comparing three different prophylaxis regimen, i.e. 1) full early prophylaxis, 2) early initiation with increasing frequency as soon as possible (asap) and 3) starting and increasing frequency according to bleeding phenotype, showed that the full early prophylaxis was most effective in prevention of joint bleeds before the age of four years (32% full vs. 27% asap and 8% phenotype), though at the cost of using most CVADs (88% full vs. 34% asap and 22% phenotype) [@Nijdam-15-HAE]. Full-scale prophylaxis also offers almost complete protection against intracranial haemorrhage (ICH) [@Andersson-17-BJH]. However, both the dose and the dose interval must be individually tailored for each child owing to bleeding phenotype, the patient’s physical activity and pharmacokinetic differences between patients. PK analysis using the Bayesian method should be used to describe and optimize treatment. The Canadian WAPPS HEMO website offer PK calculations without cost. 
+
+In older children with hemophilia A, it is possible to optimize the cost–benefit ratio of treatment by daily injections of standard FVIII (10-20 IU/kg) [@Lindvall-12-HAE]. Switching to EHL FVIII can be considered as alternative. However, it is the clinical outcome, not the achieved through levels, that determines whether the given dose is adequate. In hemophilia B rFIX EHL should be considered in PTPs when there are problems with venous access or break through bleeds on prophylaxis with standard FIX (see chapter Factor product treatment including prophylaxis, Background). 
+Most children can be treated at home by their parents, and from the age of 10-12, the child can usually start self-injections. 
