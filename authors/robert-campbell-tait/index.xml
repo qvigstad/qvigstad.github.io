@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robert Campbell Tait | Academic</title>
+    <title>Robert Campbell Tait | Christian Qvigstad</title>
     <link>/authors/robert-campbell-tait/</link>
       <atom:link href="/authors/robert-campbell-tait/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Campbell Tait</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Robert Campbell Tait</title>
       <link>/authors/robert-campbell-tait/</link>
     </image>
+    
+    <item>
+      <title>Macroscopic hematuria as a risk factor for hypertension in ageing people with hemophilia and a family history of hypertension</title>
+      <link>/publication/htn-medicine/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/htn-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hematuria in aging men with hemophilia: Association with factor prophylaxis</title>
+      <link>/publication/prophylaxis-rpth/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/prophylaxis-rpth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The elevated prevalence of risk factors for chronic liver disease among ageing people with hemophilia and implications for treatment</title>

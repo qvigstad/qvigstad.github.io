@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lars Qvigstad Sørensen | Christian Qvigstad</title>
+    <link>/authors/lars-qvigstad-s%C3%B8rensen/</link>
+      <atom:link href="/authors/lars-qvigstad-s%C3%B8rensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lars Qvigstad Sørensen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lars Qvigstad Sørensen</title>
+      <link>/authors/lars-qvigstad-s%C3%B8rensen/</link>
+    </image>
+    
+    <item>
+      <title>Macroscopic hematuria as a risk factor for hypertension in ageing people with hemophilia and a family history of hypertension</title>
+      <link>/publication/htn-medicine/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/htn-medicine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
