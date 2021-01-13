@@ -1,0 +1,80 @@
+# Eradication therapy
+
+## General aspects
+
+Although spontaneous remission occurs, immunosuppressive therapy (IST) is recommended to eradicate the inhibitors as soon as possible to reduce the length of time the patient is at risk for severe bleeding. Factor VIII level and inhibitor titer at presentation are not useful for predicting the severity of bleeding events [@Collins-07-BLOOD].
+
+## Corticosteroids, cyclophosphamid and rituximab
+
+There are no randomized studies of IST in AHA, and treatment recommendations are based on observational studies. Most centres have used corticosteroids, cytotoxic drugs, or a combination of the two, originally studied by Green [@Green-81-TH]. Rituximab has emerged as a second line option, recommended by most guidelines [@Franchini-15-BT; @Collins-14-BJH; @Kruse-Jarres-17-AJH]. The prospective, observational UK surveillance study and ECHA2 registry have compared outcomes for first line treatments.
+
+The UK surveillance [@Collins-07-BLOOD] study included 174 patients, IST at the discretion of the local clinician according to the national guideline at that time [@Hay-02-PHT]. Out of the 144 patients where remission data was available, 40 patients were treated with steroid monotherapy, almost invariably prednisolone 1 mg/kg and 48 were treated with prednisolone in combination with a cytotoxic agent usually oral cyclophosphamide 1-2 mg/kg. The groups were comparable regarding age, sex, and underlying disorder. Complete remission (CR) was defined as normal FVIII, no detectable inhibitor, and immunosuppression stopped or reduced to doses used before AH developed. CR was achieved in 76% and 78%, respectively, after 49 days (95% CI, 31-62) compared to 39 days (95% CI, 34-57), P=0.51, i.e. not statistically significant. Neither was there any difference in mortality between the two groups.
+
+The EACH2 registry report prospectively collected IST data from 289 patients [@Collins-12-BLOOD] treated according to local guidelines. Two hundred seventy four patients were included in the propensity score-matched analysis. It showed that patients treated with prednisone and oral cyclophosphamide were more likely to achieve a stable CR than those treated with prednisone alone (OR 3.25; 95% CI, 1.51-6.96, P=.003). Furthermore, in the matched groups, time to a negative inhibitor and normal factor VIII and time to CR (adjusted for presenting inhibitor titer) was shorter for the steroid and cyclophosphamide group compared with steroids alone (HR  2.11; 95% CI, 1.38-3.21, P=.001 and HR 2.36; 95% CI, 1.49-3.74, P=.001, respectively). A higher proportion of patients treated with steroids and cyclophosphamide experienced at least 1 adverse event (41%), compared with steroids alone (25%). The proportion of patients experiencing adverse events was similar comparing those that received oral cyclophosphamide (30 of 74, 41%) and intravenous cyclophosphamide (4 of 9, 44%). Mortality was comparable, (22% and 33%, respectively). Fifty one patients in the EACH2 registry were treated with rituximab, either as monotherapy (@Verbruggen-95-TH) or in combination with another immunosuppressant [@Lian-89-AIM]. Stable remission was achieved in 5 (42%) on monotherapy rituximab, compared to 25 (64%) on combination regimens, with a median time to remission of 65 days (IQR 29-144 days). Relapse was uncommon in the rituximab group (3%) [@Collins-12-BLOOD].
+
+The German, Austrian and Swiss thrombosis and hemostasis society (GTH) report a prospective observational study of 102 patients with AHA receiving IST according to the escalating protocol of the GTH [@Tiede-15-BLOOD]. Forty eight patients achieved PR with prednisone monotherapy, 25 of them within 3 weeks. Forty four patients were escalated to rituximab [@Oldenburg-08-PHARM] or cyclophosphamid [@Collins-12-BLOOD], and 12 received third line therapy with rituximab added to cyclophosphamid. Fourteen patients died before remission. Patients with baseline FVIII <1 IU/dL achieved PR less often and later (77%, 43 days) than patients with ‡1 IU/dL (89%, 24 days). Low FVIII was also associated with a lower rate of complete remission and decreased survival. Based on this observation, GTH suggest tailoring first line treatment intensity according to presenting FVIII-level.
+
+At present there are two ongoing larger trials randomising between 1st line cyclophosphamide and rituximab, both in combination with steroids ([NCT01808911](https://clinicaltrials.gov/ct2/show/NCT01808911) and [NCT03384277](https://clinicaltrials.gov/ct2/show/NCT03384277)).
+
+## Azathioprine and ciclosporine
+
+Other options for IST are azathioprine (Tay et al 2009), ciclosporine or tacrolimus [@Pardos-Gea-12-HAE] that has been reported as successful first line treatment in combination with steroids.
+
+## Human immunoglobulin for intravenous use (IVIG)
+
+Adding IVIG to other IST did not improve outcome in the UK surveillance study or EACH2 [@Collins-07-BLOOD].
+
+## Factor VIII concentrate
+
+Nemes [@Nemes-04-HAE] has been successful using a model for induction of tolerance in AHA with a combination of FVIII concentrate and cyclophosphamide 200 mg/day up to a total of 2-3 g and prednisolone 100 mg/day gradually tapering off.  A complete remission was obtained in 24 of 26 patients, typically in 4 weeks. Another group reported 12 patients with CR rates of 92% after 3 weekly infusions of FVIII combined with vincristine, cyclophosphamide and steroids [@Lian-89-AIM]. The same group later reported six patients who were treated with vincristine, cyclophosphamide and steroids without FVIII and found 83% remission after 1–7 courses [@Lian-02-AJH]. The role of FVIII co-administered with IST is not clear, and due to high cost not recommended.
+
+## Immunoadsorption/MBMP
+
+Zeitler et al. [@Zeitler-05-BLOOD] presented 35 patients with high titre AHA and severe bleeding, treated according to the Modified Bonn/Malmö protocol (MBMP) combining immunoadsorption, IST, IVIG and FVIII infusions. Treatment cycles (days 1-7) were repeated until clinical and laboratory response were achieved. They underwent 1) large-volume adsorption 2.5 to 3 times the total plasma volume on days 1-5, 2) IVIG 0.3 g/kg on days 5-7, 3) prednisolone 1 mg/kg and cyclophosphamide 1-2 mg/kg daily until remission, and 4) FVIII concentrate infusion in a dosage of 100 up to 200 IU/kg every 6 h which was reduced when satisfactory response was achieved. With this regimen inhibitors were undetectable rapidly within 2-4 days, FVIII concentrate was stopped with a median of 12 days and the total treatment process was completed within 12-17 days. Guidelines generally recommend MBMP as third line treatment or in case of acute surgical intervention, situations of high bypassing agent consumption and life threatening bleeds.
+Based on a later report of 20 patients suffering from less severe AH, Goldman et al. [@Goldmann-15-AS] argue that immunoadsorption could be considered as first line therapy. The patients with residual FVIII >1% and/or non-transfusion requiring bleedings at first presentation received first line IST consisting of cyclophosphamide 1 mg/kg BW/d and/or prednisolone 1 mg/kg BW/d. Despite the initial non-severe presentation and recommended first line treatment, bleeding were progressive in 5 patients. They switched to the full MBMP protocol, allowing FVIII recovery to normal after median 14 apheresis sessions.  In contrast to IST treated patients, disease flares during immunosuppressive tapering were not seen. 
+
+## Relapse
+
+The relapse rate after first CR was about 20 % in the 90 patients with available data in the UK surveillance study [@Collins-07-BLOOD]. The outcome was comparable in the EACH2, were relapse was reported in 15 (18%) patients who achieved a CR with steroids alone, translating to stable CR after first-line treatment with steroid monotherapy in 68 of 142 (48%) patients. The steroid and cyclophosphamide group had a 12% relapse rate, resulting in a stable CR in 58 of 83 (70%) patients. Of note, only 1(3%) of patients reaching CR with a rituximab regimen relapsed. In GTH, relapse occurred in 15 of 62 patients (24%). 
+Relapses occur up to 14 months after stopping IST, with a median of 4 months [@Collins-12-BLOOD]. Most of these patients achieved a second CR although some needed a long-term maintenance immunosuppression. There are no studies to support choice of treatment in case of relapse.
+
+## Recommendations
+
+**First line treatment:**
+
+*	Start IST as soon as possible after diagnosis. 
+*	Corticosteroids in combination with rituximab or cyclophosphamide is recommended as first line therapy.
+*	Corticosteroids as monotherapy can also be considered.
+*	Rituximab monotherapy as first line treatment is not recommended due to longer time to remission.
+
+**Second line treatment:**
+
+*	If the patient is not in responding within 3 weeks (ongoing bleeding, no increase in FVIII) consider adding second line treatment with rituximab or cyclophosphamide, whatever option not used as first line.
+*	Alternatively, azathioprine, cyclosporine or immunoadsorption can be used for second line treatment.
+*	In refractory bleeding consider immunoadsorption/MBPM.
+
+**Follow-up:**
+
+*	Monitor clinical bleeding, FVIII and inhibitor level initially every 1-2 weeks after discharge form hospital.
+*	Follow-up should continue at least a year after IST is stopped.
+
+**Relapse:**
+
+•	Repeat first line treatment with corticosteroids, and consider adding other IST.
+
+\renewcommand{\arraystretch}{1.5}
+
+```{r treateradic}
+tidyr::tribble(
+  ~ a, ~ b, ~ c, ~ d,
+  "Corticosteroids", "1 mg prednisolon/kg BW p.o. once daily for 6 weeks, there after tapering the dose rapidly.", "Oedemas, hypertension, Cushing symptoms, atrophy of skin and muscles, osteoporosis, electrolytic changes, diabetes mellitus, mental disturbances.", "Measure blood glucose. Prophylactic treatment with calcium and d-vitamin is recommended. Sulfamethoxazol-trimethoprim 400/80 mg 1 tbl. daily should be considered during combination therapy and 3 months after.",
+  "Cyclophosphamide", "1.5-2 mg/kg BW p.o. once daily at maximum 3-4 months, alternatively 10 mg/kg BW i.v. on 2 consecutive days, followed by 1.5-2 mg/kg BW p.o. for 8 days.", "Leukopenia, thrombocytopenia, anemia, nausea, vomiting, alopecia, exanthema. Cyclophosphamide should not be given to fertile women or young men since it may cause infertility.", "Blood count is checked 3 times the first week if i.v. doses are given, otherwise once a week the first month, thereafter once a month.",
+  "Rituximab", "Rituximab 375 mg/m2 intravenously once weekly for four weeks. HIV and hepatitis B virus screening should be performed prior to start.", "Asthenia, pain in bowel, back, chest, muscles or joints, lymphadenopathia, thrombocytopenia, neutropenia, anemia, hypertension, bradycardia, tachycardia, arythmia, postural hypotension, neurological symptoms, diarrhoea, activation of herpes simplex or herpes zoster, respiratory symptoms, hyperglycemia.", "Close surveillance of blood pressure, pulse and vital signs during infusion. Measure blood count, glucose and electrolytes. Prophylactic treatment with acyclovir is recommended. Sulfamethoxazol-trimethoprim 400/80 mg 1 tbl. daily should be considered.",
+  "Azathioprine", "2 mg/kg BW once daily for 6 weeks. Thereafter the dose is tapered slowly depending on the antibody titre and the factor level.", "Leukopenia, thrombocytopenia, less often anemia, nausea, vomiting, alopecia, exanthema, liver dysfunction, susceptibility to infections.", "Measure blood count and liver enzymes weekly initially, thereafter once a month.",
+  "Cyclosporin", "5 mg/kg BW a day divided in two doses; if renal insufficiency is present the dose has to be reduced.", "Renal dysfunction, liver dysfunction, tiredness, headache, abdominal pain, hypertension, nausea, vomiting, hyperlipidemia, electrolyte changes, muscle cramp.", "Measure creatinine, liver enzymes, electrolytes, blood level of ciclosporin."
+  ) %>% 
+  knitr::kable(booktabs = TRUE, col.names = c("Treatment options", "Dosing", "Side effects", "Monitoring and prevention of side effects"), caption = "\\textbf{Treatment options, dosing, side effects, and monitoring}", longtable = TRUE) %>%
+  kableExtra::kable_styling(latex_options = c("HOLD_position", "repeat_header"), full_width = TRUE, font_size = 11)
+```
+
+\renewcommand{\arraystretch}{1}

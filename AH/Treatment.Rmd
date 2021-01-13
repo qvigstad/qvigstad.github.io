@@ -1,0 +1,128 @@
+# Treatment of bleeding
+
+## Principles
+
+The majority of patients with acquired haemophilia present with bleeds (89% for patients with AHA) [@Knoebl-12-JTH]. Bleeds often constitute a medical emergency and can recur during treatment. In a British cohort, bleeding was the cause of death in 9% of the patients [@Collins-07-BLOOD]. Approximately 70% of patients with acquired haemophilia require haemostatic treatment [@Delgado-03-BJH]. The choice of haemostatic agent and strategy is depending on the severity of bleeding, patient characteristics as well as the availability of specific products.
+
+Patients with persistent inhibitors should be monitored even following the initial disease phase, since major bleeds can occur even after many months [@Collins-07-BLOOD]. There is no consistent correlation between the titres of inhibitors or the residual factor level and the severity of the bleeding symptoms; thus, it is the phenotype, rather than the inhibitor titre, which should guide choice of treatment [@Collins-07-BLOOD; @Knoebl-12-JTH]. Blood red cells, plasma and thrombocytes should be transfused as required for management of a major bleeding. Specific haemostatic products include bypassing agents and coagulation factor concentrates.
+
+Treatment, including management of bleeds, in patients with acquired haemophilia is optimally carried out at a specialist centre or, if referral is not possible, following early contact with a coagulation expert.
+
+## Specific treatments
+
+There is no definitive data on which haemostatic agent (recombinant factor concentrates or bypassing agent) should be primarily considered as first-line treatment. The results from the EACH2 study in patients with AHA showed that bleeding control was similar in patients treated with rFVIII and with bypassing agents, however bypassing agents were superior to FVIII and desmopressin (bleeding control 93.3% vs 68.3%; P = .003)[@Baudo-12-BLOOD]. Inhibitor titer, treatment monitoring and immediate availability should guide the decision [@Delgado-03-BJH]. 
+
+### Bypassing agents
+
+Two bypassing agents are commonly used in treating bleeds: i) FEIBA®, which is an activated prothrombin complex concentrate (aPCC), a plasma-derived, virus-inactivated product, containing small amounts of activated factors II, VII, IX and X and ii) NovoSeven® which is recombinant, activated factor VII. 
+ 
+There is no conclusive data on whether one of those bypassing agents is superior, since both have showed comparable efficacy in controlling bleeds [@Collins-07-BLOOD; @Baudo-12-BLOOD; @Astermark-07-BLOOD]. The initial choice depends therefore on factors such as availability and previous clinical experience. Combination treatment can be considered if monotherapy is inefficient [@Schneiderman-07-HAE].
+
+#### aPCC (FEIBA®)
+
+FEIBA® has been shown to be highly effective in treating bleeds. A retrospective analysis from a 10-year-survey in three tertiary medical centres included 34 patients with 55 bleeding episodes who received FEIBA® at a mean dose of 75 U/kg every 8-12 h. Complete bleeding control was achieved in 76 % of the severe and in 100 % in the moderate bleeding episodes [@Sallah-04-HAE]. According to the results from the EACH2 registry, FEIBA® as first-line treatment was administered at median initial dosage of 67 U/kg and was effective in 93% of the cases [@Baudo-12-BLOOD]. Treatment was well tolerated, with 4.8% of the patients suffering thrombotic episodes.
+
+The French FEIBHAC registry included 34 patients with AHA who were treated with FEIBA® for a median duration treatment of 4 (2.2-8) days. The mean initial dosage was 75.4 U/kg $\pm$ 7.7 U/kg and haemostatic control was achieved in 88% of the bleeding episodes, whereas 6 serious adverse events (either thrombosis or events related to a potentially hypercoagulable state, such as DIC and low fibrinogen) were recorded [@Borg-15-HAE].
+
+There is no specific laboratory method for monitoring treatment with FEIBA®. The global haemostatic methods, such as thromboelastrography (ROTEM/TEG) and thrombin generation assays (TGA) have shown potential in the follow up and tailoring of treatment [@Sumner-07-HAE; @Varadi-03-JTH]. ROTEM/TEG is the method most often available in the clinical practice and can therefore be used for monitoring the efficacy of treatment with FEIBA®.
+
+Although systemic use of tranexamic acid concomitantly with FEIBA® has been previously not recommended, more recent studies have not shown that there is an increased risk of thrombosis [@Holmstrom-12-HAE]. Administration of tranexamic acid with FEIBA® is therefore not advised against, but it is recommended that, whenever possible, to maintain an interval of six hours between administration of the products.
+
+According to the results of one study [@Zanon-19-TR], administration of low dose FEIBA® to 15 patients for a mean of 20.5 $\pm$ 17.6 days following remission after initial treatment, led to lower rates of bleeding relapse compared to the rest of the cohort (n=41) which did not receive prophylactic treatment. The authors reported no thromboembolic events. However, due to the small size of the cohort, no recommendation on secondary prophylaxis following remission can be given. 
+
+#### rFVIIa (NovoSeven®)
+
+The optimal dosage of NovoSeven® in AH has not been defined. A dose of 90 $\mu$g/kg every 2-3 hours until haemostasis is achieved, is generally recommended to patients with congenital haemophilia with inhibitors. 
+Sumner et al [@Sumner-07-HAE] reviewed 139 patients with AH who were treated with NovoSeven® at 124 non- surgical and 57 surgical situations. The dose regimens and length of treatment were similar for all patients with administration either as bolus injection (46-150 $\mu$g/kg at 2-24 h intervals) or continuous infusion (8-50 $\mu$g/kg/h). Most patients were treated for < 7 days. The overall clinical response was evaluated as excellent or effective in 74.7% and partially effective in 13.7%. Ten thrombotic events were recorded.
+
+In the EACH2 registry, the median initial dosage of NovoSeven® was 90 $\mu$g/kg (84.71-102.86) at an initial interval of 3 hours, and a median number of 12 dosages/patient. Out of the 174 patients, 5 suffered a thrombotic complication (2.9%)[@Baudo-12-BLOOD].
+
+ROTEM/TEG and TGA may be useful in tailoring the treatment for the individual patient [@Sumner-07-HAE; @Qi-14-BCF].
+
+Generally, tranexamic acid is added during treatment with NovoSeven®.
+
+### Factor concentrates
+
+FVIII concentrates may be useful in patients with FVIII autoantibodies. FIX concentrates may be useful in patients with FIX autoantibodies, which only occur rarely.
+
+The success of treatment with factor concentrates is dependent on, above all, the inhibitor titre but also the severity and localisation of the bleeding. Factor concentrates are generally not effective in patients with high antibody titres, >5-10 BU.
+
+For AHA, recombinant factor VIII is recommended [@Knoebl-12-JTH, @Baudo-12-BLOOD]. For a newly diagnosed patient with a moderate or severe bleeding, a high bolus dose of 100-200 U FVIII/kg may be used. Alternative dosages suggested by other studies are 20 U of factor concentrate for each BU, with an additional 40 U/kg [@Collins-07-BLOOD] and 90 U/kg every 2-3 hours [@Franchini-08-BLOOD] until bleeding control. According to the results of the EACH2 trial, the incidence of thromboembolic complications in patients treated with rFVIII was 2.9% [@Knoebl-12-JTH]. FVIII and FIX concentrates may be administered intermittently or as continuous infusion.
+
+Very high doses of FIX concentrate should be avoided, as a risk of developing thrombosis cannot be entirely excluded, especially in elderly patients.
+
+Human FVIII concentrates are recommended primarily if bypassing agents and recombinant FVIII concentrates are unavailable [@Baudo-12-BLOOD; @Tiede-20-Haem; @Huth-09-Haem], since they can generally not be given in such dosages as to overcome the inhibitor.
+
+### Porcine FVIII
+
+Porcine plasma FVIII (pFVIII) concentrate is also available (Obizur®) and has been shown to be effective in increasing FVIII even at dosages 100 U/kg [@Kruse-Jarres-15-HAE]. Due to its different sequence from human FVIII, porcine FVIII concentrate has lower risk of inactivation by inhibitors. Its main advantage is the possibility to monitor treatment response by routinely used FVIII:C measurements. However, there is a significant variability in the response to the product, mainly dependent on pre existing pFVIII antibodies and the appearance of such under treatment. In the initial study that led to registration of the product, a loading dose of 200 U/kg was used. In patients without anti-pFVIII, FVIII reached supra therapeutic levels (>400%) while patients with antibodies had normal or subtherapeutic levels of FVIII [@Kruse-Jarres-15-HAE]. This study also demonstrate that FVIII levels do not rise as rapidly in the first 24 h in patients with a pre-existing anti-pFVIII antibody as in those without, but therapeutic levels could still be achieved. To predict the response of therapy it is thus, advisable that an assay to measure anti-pFVIII is available. However, by using a lower loading dose (100 U/kg) and measure the FVIII in vitro recovery, the adequate dose of subsequent doses can be calculated. A practical limitation is the high number of vials needed per dose (28 vials to achieve a dose of 200 U/kg in a 70 kg person [@Fosbury-17-TAH].
+
+### Tranexamic acid
+
+Tranexamic acid (Cyklokapron®, Tranon®) is an efficient inhibitor of fibrinolysis. It may be useful in prevention of bleeds in AH but is rather to be considered as a concomitant medication in the majority of bleeds. It can, however, be used as monotherapy in patients with mild bleeds.
+
+### Desmopressin
+
+Desmopressin (Octostim®, Minirin®) is a synthetic analogue of vasopressin, which stimulates the endogenous release of FVIII, VWF and t-PA (tissue plasminogen activator). It has been previously shown some effect in treating mild bleedings [@Franchini-08-BLOOD] and has been included in the treatment recommendations. It could be considered as second line treatment if no other hemostatic agents are available. However, due to inferior efficacy [@Baudo-12-BLOOD] and adverse effects (see Table \@ref(tab:treatrec) below), it should not be used as first-line treatment.
+
+### Emicizumab (Hemlibra®)
+
+Emicizumab (Hemlibra®) is a bispecific antibody against FIXa and FX, mimicking the co-factor activity of FVIII. It has been approved as treatment for inherited haemophilia A with inhibitors. It has been used in some cases of acquired haemophilia A [@Mohnle-19-TMH; @Knoebl-20-BLOOD]. As reported in [@Knoebl-20-BLOOD], four patients received 3mg/kg sc. weekly/4weeks, then 1.5mg/kg and good haemostatic effect was reported. An elderly patient with comorbidities suffered a minor stroke after three injections, in association with rhFVIIa. Clinical studies to systemically evaluate efficacy and safety are ongoing ([NCT04188639](https://clinicaltrials.gov/ct2/show/NCT04188639)).
+
+Emicizumab is currently not included in the treatment algorithm for AHA but can be considered upon failure of first- and second line treatment.
+
+### Local treatment
+
+Immobilization of a limb may help to relieve pain and stabilize the clot. This should, however, be merely a temporary measurement, since immobilization in combination with administration of (primarily) bypassing agents could increase the risk for thrombosis.
+
+Ice bags on towels can be applied on muscle haematomas. Fibrin glue, spongostan and similar products can be used locally, e.g. after tooth extractions. Tranexamic acid can be administered locally, for example to treat epistaxis or oral bleeds. A solution of lidocainhydroklorid + nafazolin ($\alpha$-adrenergic vasoconstrictor) may be used in mucous membrane bleed. Rigorous and repeated clinical evaluations of bleeds in order to assess progress or regress are required.
+
+## Pre- and perioperative management
+
+Surgery or other invasive procedures should be avoided in patients with AH until the inhibitor is eradicated because of the risk of uncontrollable bleeds. If surgery is inevitably necessary, it should be undertaken with rigorous precautions. The surgeon must be familiar with operations on haemophilia patients and thorough surgical haemostasis should be applied.
+
+Bypassing agents are considered as first-choice agents for pre- and perioperative prophylactic treatment in patients with acquired haemophilia. If bypassing agents are not available, administration of rFVIII/IX concentrate, intermittently or as a continuous infusion, would be efficient treatment if the levels of FVIII/IX are increased after injection (a test dosage should be administered prior to surgery in order to evaluate the effect). Porcine FVIII may also be considered after evaluating the in vitro recovery.
+
+Factor concentrates or bypassing agents should be administered as soon as possible in severe manifestations associated with bleeding to avoid complications such as ileus or compartment syndrome, thus rendering invasive procedures unnecessary.
+
+## Recommendations
+
+**First line treatment:**
+
+*	Bypassing agents are recommended for significant bleeds^1^. Choice of agent depends primarily on availability and clinical experience. Upon treatment failure with one agent, it is recommended to use the other. When switching treatments, an interval of at least 3 hours (when switching from NovoSeven® to FEIBA®) and 6 hours (when switching from FEIBA® to NovoSeven®) is recommended. Combination treatment can be considered if monotherapy is inefficient.
+
+* Factor VIII concentrates in high dosages can be used as first line treatment in patients with AHA, if bypassing agents are not available and especially in patients with low antibody titres and if daily measurement of FVIII is possible.
+
+*	Tranexamic acid can be used as concomitant treatment both in patients receiving bypassing agents and factor concentrates. In mild^2^ bleeds, tranexamic acid can be used as monotherapy or in combination with desmopressin.
+
+**Second line treatment:**
+
+*	Either factor concentrates or bypassing agents can be used as second line treatment, depending on the medication used as first line treatment.
+
+*	Porcine FVIII is recommended if adequate bleeding control is not achieved on treatment with bypassing agents.
+  
+^1^Life or limb threatening, central nervous system, deep muscle or retroperitoneal bleeds. Haemoglobin <80 g/L or haemoglobin drop >20 g/L [@Delgado-03-BJH].
+
+^2^Muscle and extensive superficial bleeds without any substantial effect on skin and function and without causing significant anaemia. 
+
+\renewcommand{\arraystretch}{1.5}
+
+```{r treatrec}
+tidyr::tribble(
+  ~ a, ~ b, ~ c, ~ d, ~ e,
+  "FEIBA®", "50-100 U/kg (i.v.) every 6-12 hours, at maximum 200 U/kg daily.", "Acute venous or arterial thrombosis. DIC.","Arterial and venous thrombosis. Gastrointestinal symptoms. Dyspnoea. Coughing.", "Clinical monitoring and ROTEM/TEG (alt. another global haemostatic method) can be used when available.",
+  "NovoSeven®", "70-90 ug/kg (i.v.) at an initial interval of 2-3 hours until hemostasis is achieved, thereafter increasing the interval (4, 6, 8, 12 hours). An initial dosage of up to 120 ug/kg can be used.", " ", "Arterial and venous thrombosis. DIC. Elevation of hepatic enzymes. Headache. Rash. Nausea.", "Clinical monitoring and ROTEM/TEG (alt. another global haemostatic method) can be used when available.",
+  "Factor concentrates (human)", "100-200 U FVIII/kg. Alternative dosages: 20 U of factor concentrate for each BU, with an additional 40 U/kg and 90 U/kg every 2-3 hours. (dosage based on recommendations for AHA)", "(Depends on the factor concentrate)", "(Depends on the factor concentrate)", "Clinical monitoring and measurement of factor level. Monitoring of APTT (if initially prolonged). Factor levels should be determined at least once daily initially in order to evaluate the continued treatment. A level of 0.30 kIU/L or more should be aimed at. There is, however, no definite correlation between plasma levels and the clinical response, therefore the clinical condition must be carefully evaluated on a daily basis.",
+  "Porcine FVIII", "50-200 U FVIII/kg as initial treatment. Subsequent dosing dependent on in vitro recovery and presence of anti pFVIII antibodies.", "Previous anaphylactic reaction on administration of the product.", "Allergic reactions, anti pFVIII antibodies. No thrombosis in 29 patients evaluated.", "Clinical monitoring and measurement of factor level.",
+  "Tranexamic acid", "10 mg/kg (i.v.) or 20 mg/kg (p.o.) every 6-8 hours. The dosage has to be adjusted if the serum creatinine is >120 ugmol/L.", "Acute venous or arterial thrombosis. DIC. Haematuria (should be used with caution if bleeding from the upper urinary tract is suspected). Convulsions. Parenteral treatment: subarachnoidal haematoma (short-term treatment might be considered).", "Diarrhoea, vomiting, nausea. Allergic dermatitis. Thrombosis, anaphylactic reaction, convulsions (unknown incidence).", "Clinical monitoring. There is a risk for accumulation in patients with kidney failure, please refer to dosing and product resume.",
+  "Desmopressin (for AHA)", "0.3 ug/kg i.v. or s.c., or 300 ug (nasal spray). The dose may be repeated twice with 8, 12 or 24 h intervals. Tranexamic acid should be administered concomitantly, if not contraindicated.", "SIADH. Unstable angina. Uncompensated heart insufficiency (and other conditions requiring treatment with diuretics). Habitual or psychogenic polydipsia. Von Willebrand disease type 2B. Hyponatraemia.", "Fatigue, temporary hypotensive episode, nausea, headache. Dizziness. Hyponatremia. Thrombosis (unknown incidence).", "Clinical monitoring and measurement of FVIII. Treatment increases risk for fluid retention and hyponatremia, and the patient’s fluid intake should be limited. Should be administrated with caution to patients with creatinine clearance <50 ml/min. Electrolytes should be monitored throughout treatment duration."
+  ) %>% 
+  knitr::kable(booktabs = TRUE, col.names = c("Treatment options", "Dosing", "Contraindications", "Adverse effects", "Monitoring and prevention of side effects"), caption = "\\textbf{Dosing, adverse effects and monitoring of treatment}", longtable = TRUE) %>%
+  kableExtra::kable_styling(latex_options = c("HOLD_position", "repeat_header"), full_width = TRUE, font_size = 11) %>% 
+  kableExtra::footnote(symbol = "The physician should refer to product resume prior to administration for more detailed report, this list is considered incomplete. Concerns all aforementioned formulations: allergic reactions can occur as an adverse event and hypersensitivity to the product or component of the formulation is a contraindication.", threeparttable = TRUE)
+```
+
+\renewcommand{\arraystretch}{1}
+
+
+

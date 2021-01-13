@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}Summary}{4}{section.1}%
+\contentsline {section}{\numberline {2}Diagnosis}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Incidence and co-morbidity}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Symptoms and signs and clinical course}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Laboratory screening methods}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Specialized laboratory methods}{6}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Blood sampling and transport}{6}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Testing at the coagulation laboratory}{6}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Specific methods}{7}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Characteristics of the autoantibodies}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Recommendations}{8}{subsection.2.7}%
+\contentsline {section}{\numberline {3}Treatment of bleeding}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Principles}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Specific treatments}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Bypassing agents}{10}{subsubsection.3.2.1}%
+\contentsline {paragraph}{\numberline {3.2.1.1}aPCC (FEIBA®)}{10}{paragraph.3.2.1.1}%
+\contentsline {paragraph}{\numberline {3.2.1.2}rFVIIa (NovoSeven®)}{11}{paragraph.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.2}Factor concentrates}{11}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Porcine FVIII}{12}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Tranexamic acid}{13}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Desmopressin}{13}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Emicizumab (Hemlibra®)}{13}{subsubsection.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.2.7}Local treatment}{13}{subsubsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.3}Pre- and perioperative management}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Recommendations}{14}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Eradication therapy}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}General aspects}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Corticosteroids, cyclophosphamid and rituximab}{20}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Azathioprine and ciclosporine}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Human immunoglobulin for intravenous use (IVIG)}{22}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Factor VIII concentrate}{22}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Immunoadsorption/MBMP}{22}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Relapse}{23}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Recommendations}{23}{subsection.4.8}%
+\contentsline {section}{References}{28}{section*.2}%
