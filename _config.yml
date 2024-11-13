@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Christian Qvigstad"
 title_separator          : "-"
 name                     : &name "Christian Qvigstad"
-description              : &description "Hematologist, MD, PhD"
+description              : &description ""
 url                      : https://qvigstad.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "/images/CQ.jpg"
   name             : "Christian Qvigstad"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hematologist, MD, PhD"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "Department of Haematology Oslo University Hospital Rikshospitalet, Norway"
+  uri              : "https://www.oslo-universitetssykehus.no/en/"
+  email            : "qvigstad@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
